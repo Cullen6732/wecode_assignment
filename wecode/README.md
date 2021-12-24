@@ -1,5 +1,5 @@
 # git add
 
-# git commit
+## git commit
 
-# git push origin master
+### git push origin master
